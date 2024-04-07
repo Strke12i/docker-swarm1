@@ -1,0 +1,1 @@
+    docker swarm join --token {YOUR_TOKEN} 10.10.10.100:2377
